@@ -1,0 +1,12 @@
+.navbar-inverse {
+    background-color: #7c858d;
+    border-color: #7c858d;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #f0f0f0;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #f0f0f0;
+}
